@@ -27,8 +27,3 @@ pip install pybuilder
 pyb run_unit_tests
 ```
 
-You can also run the tests without PyBuilder:
-
-```
-python -m unittest tests.unittest.calculator_Reina_Hani.test_calculator_Reina_Hani
-```
